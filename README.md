@@ -1,6 +1,7 @@
 # WatchNext
 
 Check the app here - [WatchNext](watch-next-react.vercel.app)
+<br>
 WatchNext is a dynamic movie showcase project powered by React and Vite, fetching data from The Movie Database (TMDB). This platform offers users a curated list of favorite movies alongside a robust search feature to explore TMDB's extensive collection. With a sleek interface and lightning-fast performance, WatchNext delivers an immersive browsing experience for movie enthusiasts. Whether you're discovering new releases or revisiting beloved classics, WatchNext provides a seamless journey through the world of cinema.
 
 ![Project Image](/project-watchnext.png)
